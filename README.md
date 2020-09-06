@@ -1,4 +1,4 @@
-# Olá, seja bem vindo ao meu portólio! 😄
+# Olá, seja bem vindo ao meu portfólio! 😄
 
 <img align="right" height="200" src="https://images.emojiterra.com/google/android-pie/512px/1f469-1f3fb-1f4bb.png"/>
 
