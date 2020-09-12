@@ -10,7 +10,7 @@
 
 ### Contato
 * 🔗 [Linkedin](https://www.linkedin.com/in/danielle-sousa/) 
-* 📧 daniellexsousa@gmail.com
+* 📧 danisousadev@gmail.com
 
 * * *
 
@@ -26,4 +26,4 @@
 
 ### Contact Info
 * 🔗 [Linkedin](https://www.linkedin.com/in/danielle-sousa/) 
-* 📧 daniellexsousa@gmail.com
+* 📧 danisousadev@gmail.com
