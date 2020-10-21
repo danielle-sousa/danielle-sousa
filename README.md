@@ -6,7 +6,7 @@
 * Estou em busca de novos desafios e oportunidades de aprendizado e crescimento.
 
 * 💻 Stack: **HTML, CSS, Javascript, jQuery, Wordpress, Bootstrap, Pyhton**
-* 📖 Estudando: Java, PHP, SQL, React, Typescript.
+* 📖 Estudando: React, Typescript.
 
 ### Contato
 * 🔗 [Linkedin](https://www.linkedin.com/in/danielle-sousa/) 
@@ -22,7 +22,7 @@
 * I'm looking for challenging projects and opportunities to learn and evolve. 
 
 * 💻 Stack: **HTML, CSS, Javascript, jQuery, Wordpress, Bootstrap, Pyhton**
-* 📖 Learning: Java, PHP, SQL, React, Typescript.
+* 📖 Learning: React, Typescript.
 
 ### Contact Info
 * 🔗 [Linkedin](https://www.linkedin.com/in/danielle-sousa/) 
