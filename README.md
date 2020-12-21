@@ -25,7 +25,7 @@
 * 💜 I'm passionate about tech, music, film, animals, games and my family.
 
 * 💻 Stack: **HTML, CSS, Javascript, jQuery, Wordpress, Bootstrap, Pyhton**
-* 📖 Studying: React.JS, Typescript.
+* 📖 Studying: React.JS, Angular.
 
 ### Contact Info
 * 🔗 [Linkedin](https://www.linkedin.com/in/danielle-sousa/) 
