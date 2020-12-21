@@ -13,6 +13,9 @@
 * 🔗 [Linkedin](https://www.linkedin.com/in/danielle-sousa/) 
 * 📧 danisousadev@gmail.com
 
+[![danielle-sousa](https://github-readme-stats.vercel.app/api/top-langs/?username=danielle-sousa&hide=html&layout=compact&theme=dark)](https://github.com/danielle-sousa/)
+
+
 * * *
 
 # Hello, welcome to my portfolio! 😄
