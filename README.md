@@ -1,4 +1,4 @@
-# Olá, sou a Dani Sousa! 😄
+# Olá, pode me chamar de Dani! 😄
 
 <img align="right" height="200" src="https://images.emojiterra.com/google/android-pie/512px/1f469-1f3fb-1f4bb.png"/>
 
@@ -21,7 +21,7 @@
 
 * * *
 
-# Hello, I'm Dani Sousa! 😄
+# Hello, call me Dani! 😄
 
 * 👩🏻 I'm Danielle Sousa and I'm currently studying to become a front-end web developer. I'm from Santos, Brazil and I'm studying *Web Development* at FATEC Santos.
 * 🚀 I'm looking for challenging projects and opportunities to learn and evolve. 
