@@ -8,10 +8,9 @@
 
 ## Minha Stack
 
-* 💻 **HTML5, CSS3, Javascript, jQuery, Wordpress, Bootstrap**
-* 🖥 **Python, PHP, Java, PostgreSQL**
+* 💻 **HTML5, CSS3, Javascript, Angular, React, Bootstrap, Typescript**
 * 🖱 Visual Studio Code 
-* 📖 Estudando: Angular e Testes unitários.
+* 📖 Estudando: React e Testes unitários.
 
 [![danielle-sousa](https://github-readme-stats.vercel.app/api/top-langs/?username=danielle-sousa&hide=html&layout=compact&theme=dark)](https://github.com/danielle-sousa/)
 
@@ -29,10 +28,9 @@
 
 ## My Stack
 
-* 💻 **HTML, CSS, Javascript, jQuery, Wordpress, Bootstrap**
-* 🖥 **Python, PHP, Java, PostgreSQL**
+* 💻 **HTML, CSS, Javascript, Angular, React, Bootstrap, Typescript**
 * 🖱 Visual Studio Code 
-* 📖 Studying: Angular and Unit Testing.
+* 📖 Studying: React and Unit Testing.
 
 ### Contact Info
 [<img src="https://camo.githubusercontent.com/c5afed2a7e04695bec5e838b569862e82eaf3de09b9810fc3b6d3c559213be25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6c75697a2d6361726c6f732d6162626f74742d67616c762543332541336f2d6e65746f2d3231613933623134382f"/>](https://www.linkedin.com/in/danielle-sousa/)
